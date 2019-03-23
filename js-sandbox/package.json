@@ -14,7 +14,7 @@
       "@babel/preset-react"
     ]
   },
-  "author": "",
+  "author": "Sergio Garcia",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
